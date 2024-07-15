@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    body {
+        @apply overflow-x-hidden absolute top-0 z-[-2] h-full w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))];
+    }
+
+    ::-webkit-scrollbar {
+        @apply w-[6px] h-[10px];
+    }
+
+    ::-webkit-scrollbar-track {
+        @apply bg-[#17171e];
+    }
+
+    ::-webkit-scrollbar-thumb {
+        @apply bg-[#7e7e7e] rounded-full;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        @apply bg-[#616161];
+    }
+    
+}
