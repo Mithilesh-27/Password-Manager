@@ -69,8 +69,7 @@ This Password Manager application allows users to securely store and manage thei
 
 ## Usage
 
-1. Use live preview/live server to start the app on `http://localhost:5173`.
-2. Use the interface to add, edit, delete, and copy passwords.
+1. Use the interface to add, edit, delete, and copy passwords.
 
 ## Contributing
 
