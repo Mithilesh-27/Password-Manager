@@ -71,6 +71,10 @@ This Password Manager application allows users to securely store and manage thei
 
 1. Use the interface to add, edit, delete, and copy passwords.
 
+## Live Demo
+
+Check out the live version of the website here: [Password Manager](https://password-manager-drab-eight.vercel.app/)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
